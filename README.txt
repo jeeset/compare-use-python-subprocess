@@ -91,7 +91,7 @@ test_inputs = [input1, input2]
 3. 逐筆比較輸出，若發現不一致即停止並顯示差異
 
 ## 成果
-![compare_ex](https://hackmd.io/_uploads/By2XBrW3We.png)
+![compare_ex](./compare_ex.png)
 
 **影片**
-{%youtube https://youtu.be/EusF-5M99KE%}
+[compare_video](https://youtu.be/EusF-5M99KE%)
